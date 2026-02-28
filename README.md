@@ -7,41 +7,29 @@ As a first-year college student, I wanted to strengthen my understanding of how 
 
 🚀 What This App Can Do
 
-Add new tasks
-
-Set due dates
-
-Delete tasks
-
-Automatically save tasks using localStorage
-
-Persist data even after refreshing the page
+* Add new tasks
+* Set due dates
+* Delete tasks
+* Automatically save tasks using localStorage
+* Persist data even after refreshing the page
 
 🛠 Tech Used
 
-HTML5
-
-CSS3 (Grid Layout)
-
-JavaScript (ES6)
-
-Browser LocalStorage API
+*HTML5
+* CSS3 (Grid Layout)
+* JavaScript (ES6)
+* Browser LocalStorage API
 
 💡 What I Learned
 
 While building this project, I practiced:
 
-DOM manipulation
-
-Event handling
-
-Event delegation
-
-Working with arrays & objects
-
-Storing and retrieving data using localStorage
-
-Writing cleaner and more structured JavaScript
+* DOM manipulation
+* Event handling
+* Event delegation
+* Working with arrays & objects
+* Storing and retrieving data using localStorage
+* Writing cleaner and more structured JavaScript
 
 This project helped me understand how small applications manage state and update UI dynamically.
 
